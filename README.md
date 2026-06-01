@@ -131,24 +131,7 @@ This shows how profitability changes month by month.
 
 # Project Structure
 
-superstore-sales-eda/
-│
-├── data/
-├── notebook/
-├── images/
-│   ├── 01_sales_by_category.png
-│   ├── 02_subcategory_sales.png
-│   ├── 03_sales_by_region.png
-│   ├── 04_profit_by_category.png
-│   ├── 05_sales_vs_profit.png
-│   ├── 06_monthly_sales_trend.png
-│   └── 07_monthly_profit_trend.png
-│
-├── superstore_cleaned_final.csv
-├── superstore_eda.ipynb
-└── README.md
 
----
 
 # Author
 
