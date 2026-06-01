@@ -17,7 +17,7 @@ This project focuses on answering key business questions:
 
 ---
 
-## Tools & Technologies
+## Tools & Liabraries
 
 - Python  
 - Pandas  
