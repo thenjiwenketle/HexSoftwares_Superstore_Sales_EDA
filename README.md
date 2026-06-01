@@ -1,93 +1,165 @@
 # HexSoftwares_Superstore_Sales_EDA
 ## Project Overview
 
-This project analyzes retail sales data from the Superstore dataset to uncover trends, customer behavior, regional performance, and profitability insights. The analysis was conducted using Python and data visualization libraries.
+This project explores retail sales data from the Superstore dataset to uncover meaningful business insights such as sales trends, customer behavior, regional performance, and profitability drivers.
+
+Using Python and data visualization tools, the analysis transforms raw transaction data into clear, actionable insights that can support smarter business decisions and dashboard development in Power BI.
+
+---
 
 ## Objectives
 
-* Understand overall business performance
-* Analyze sales and profit trends
-* Identify top-performing categories and sub-categories
-* Evaluate regional sales performance
-* Explore customer purchasing patterns
-* Prepare data for dashboard development in Power BI
+This project focuses on answering key business questions:
 
-## Tools Used
+- Understand overall business performance  
+- Track sales and profit trends over time  
+- Identify top-performing product categories and sub-categories  
+- Evaluate regional sales and profitability differences  
+- Explore customer purchasing behavior  
+- Prepare cleaned data for interactive Power BI dashboards  
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-* Power BI
-* GitHub
+---
 
-## Dataset Information
+## Tools & Technologies
+
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+- Power BI  
+- GitHub  
+
+---
+
+## Dataset Overview
 
 The dataset contains:
 
-* 9,994 records
-* 22 columns
-* Sales transactions across multiple regions and product categories
+- 9,994 sales transactions  
+- 22 features (columns)  
+- Multiple product categories and regions  
+- Order-level transactional data  
 
-## Data Cleaning
+---
 
-The following checks were performed:
+## Data Cleaning Process
 
-* Missing value analysis
-* Duplicate record analysis
-* Data type validation
-* Date conversion for Order Date and Ship Date
+Before analysis, the dataset was cleaned and validated:
 
-## Key Performance Indicators
+- Checked and handled missing values  
+- Removed duplicate records  
+- Verified and corrected data types  
+- Converted Order Date and Ship Date to datetime format  
 
-* Total Sales
-* Total Profit
-* Total Orders
-* Total Customers
+---
 
-## Analysis Performed
+## Key Performance Indicators (KPIs)
 
-### Sales Analysis
+- Total Sales  
+- Total Profit  
+- Total Orders  
+- Total Customers  
 
-* Sales by Category
-* Top 10 Sub-Categories by Sales
-* Sales by Region
+---
 
-### Profit Analysis
+# Exploratory Data Analysis (EDA)
 
-* Profit by Category
-* Regional Profitability
+## Sales Analysis
 
-### Time Analysis
+### Sales by Category  
+Insert image: Sales by Category  
+(Use: `01_sales_by_category.png`)
 
-* Monthly Sales Trend
+This visual shows how sales are distributed across major product categories.
 
-## Key Insights
+---
 
-* Technology generated the highest sales.
-* Sales performance varied significantly by region.
-* Certain sub-categories contributed disproportionately to revenue.
-* Monthly sales trends revealed seasonal fluctuations.
+### Top Sub-Categories by Sales  
+Insert image: Sub-Category by Sales  
+(Use: `02_subcategory_sales.png`)
 
-## Project Structure
+This highlights the most profitable and high-demand product groups.
+
+---
+
+### Sales by Region  
+Insert image: Sales by Region  
+(Use: `03_sales_by_region.png`)
+
+This compares how different regions contribute to total sales.
+
+---
+
+## Profit Analysis
+
+### Profit by Category  
+Insert image: Profit by Category  
+(Use: `04_profit_by_category.png`)
+
+This shows which categories generate the most profit, not just sales.
+
+---
+
+### Sales vs Profit  
+Insert image: Sales vs Profit  
+(Use: `05_sales_vs_profit.png`)
+
+This helps identify whether high sales always lead to high profit.
+
+---
+
+## Time-Based Analysis
+
+### Monthly Sales Trend  
+Insert image: Monthly Sales Trend  
+(Use: `06_monthly_sales_trend.png`)
+
+This reveals seasonal patterns and sales growth over time.
+
+---
+
+### Monthly Profit Trend  
+Insert image: Monthly Profit Trend  
+(Use: `07_monthly_profit_trend.png`)
+
+This shows how profitability changes month by month.
+
+---
+
+# Key Insights
+
+- Technology is the highest revenue-generating category  
+- Some regions significantly outperform others in both sales and profit  
+- Certain sub-categories dominate overall revenue contribution  
+- Sales show clear seasonal fluctuations across months  
+- High sales do not always guarantee high profit, highlighting cost differences  
+
+---
+
+# Project Structure
 
 superstore-sales-eda/
-
+│
 ├── data/
-
 ├── notebook/
-
 ├── images/
-
+│   ├── 01_sales_by_category.png
+│   ├── 02_subcategory_sales.png
+│   ├── 03_sales_by_region.png
+│   ├── 04_profit_by_category.png
+│   ├── 05_sales_vs_profit.png
+│   ├── 06_monthly_sales_trend.png
+│   └── 07_monthly_profit_trend.png
+│
 ├── superstore_cleaned_final.csv
-
 ├── superstore_eda.ipynb
-
 └── README.md
 
-## Author
+---
 
-Thenjiwe Nketle
+# Author
+
+Thenjiwe Nketle  
 Aspiring Data Analyst | Mathematics Graduate
