@@ -127,8 +127,6 @@ This shows how profitability changes month by month.
 
 ---
 
-# Project Structure
-
 
 
 # Author
