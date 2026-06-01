@@ -1,7 +1,7 @@
 # HexSoftwares_Superstore_Sales_EDA
 ## Project Overview
 
-This project analyzes the Superstore retail dataset to understand how the business is performing in terms of sales, profit, and customer behavior. Using Python and data visualization tools, it explores patterns across products, regions, and time to uncover useful trends that can support better decision-making. The aim is to turn raw sales data into clear, practical insights that can be used for reporting and building dashboards in Power BI.
+This project analyzes the Superstore retail dataset to understand how the business is performing in terms of sales, profit, and customer behavior. Using Python and data visualization tools, it explores patterns across products, regions, and time to uncover useful trends that can support better decision-making. The aim is to turn raw sales data into clear, practical insights that can be used for reporting and building dashboards.
 
 ---
 
@@ -13,8 +13,7 @@ This project focuses on answering key business questions:
 - Track sales and profit trends over time  
 - Identify top-performing product categories and sub-categories  
 - Evaluate regional sales and profitability differences  
-- Explore customer purchasing behavior  
-- Prepare cleaned data for interactive Power BI dashboards  
+- Explore customer purchasing behavior   
 
 ---
 
@@ -26,7 +25,6 @@ This project focuses on answering key business questions:
 - Matplotlib  
 - Seaborn  
 - Jupyter Notebook  
-- Power BI  
 - GitHub  
 
 ---
