@@ -67,21 +67,21 @@ Before analysis, the dataset was cleaned and validated:
 ## Sales Analysis
 
 ### Sales by Category  
-![image alt]()
+![image alt](https://github.com/thenjiwenketle/HexSoftwares_Superstore_Sales_EDA/blob/85990c3835a5878ee8f8abb9225f5ea68951b5f7/Screenshots/Profit%20by%20Category.png)
 
 This visual shows how sales are distributed across major product categories.
 
 ---
 
 ### Top Sub-Categories by Sales  
-![image alt]()
+![image alt](https://github.com/thenjiwenketle/HexSoftwares_Superstore_Sales_EDA/blob/85990c3835a5878ee8f8abb9225f5ea68951b5f7/Screenshots/Sub-category%20by%20sales.png)
 
 This highlights the most profitable and high-demand product groups.
 
 ---
 
 ### Sales by Region  
-![image alt]()
+![image alt](https://github.com/thenjiwenketle/HexSoftwares_Superstore_Sales_EDA/blob/85990c3835a5878ee8f8abb9225f5ea68951b5f7/Screenshots/Sales%20by%20Region.png)
 
 This compares how different regions contribute to total sales.
 
@@ -90,14 +90,14 @@ This compares how different regions contribute to total sales.
 ## Profit Analysis
 
 ### Profit by Category  
-![image alt]()
+![image alt](https://github.com/thenjiwenketle/HexSoftwares_Superstore_Sales_EDA/blob/85990c3835a5878ee8f8abb9225f5ea68951b5f7/Screenshots/Profit%20by%20Category.png)
 
 This shows which categories generate the most profit, not just sales.
 
 ---
 
 ### Sales vs Profit  
-![image alt]()
+![image alt](https://github.com/thenjiwenketle/HexSoftwares_Superstore_Sales_EDA/blob/85990c3835a5878ee8f8abb9225f5ea68951b5f7/Screenshots/Sales%20vs%20Profit.png)
 
 This helps identify whether high sales always lead to high profit.
 
@@ -106,14 +106,14 @@ This helps identify whether high sales always lead to high profit.
 ## Time-Based Analysis
 
 ### Monthly Sales Trend  
-![image alt]()
+![image alt](https://github.com/thenjiwenketle/HexSoftwares_Superstore_Sales_EDA/blob/85990c3835a5878ee8f8abb9225f5ea68951b5f7/Screenshots/Monthly%20Sales%20Trend.png)
 
 This reveals seasonal patterns and sales growth over time.
 
 ---
 
 ### Monthly Profit Trend  
-![image alt]()
+![image alt](https://github.com/thenjiwenketle/HexSoftwares_Superstore_Sales_EDA/blob/85990c3835a5878ee8f8abb9225f5ea68951b5f7/Screenshots/Monthly%20Profit%20Trend.png)
 
 This shows how profitability changes month by month.
 
