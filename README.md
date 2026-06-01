@@ -132,4 +132,3 @@ This shows how profitability changes month by month.
 # Author
 
 Thenjiwe Nketle  
-Aspiring Data Analyst | Mathematics Graduate
