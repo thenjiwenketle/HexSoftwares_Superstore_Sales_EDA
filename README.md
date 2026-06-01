@@ -1,9 +1,7 @@
 # HexSoftwares_Superstore_Sales_EDA
 ## Project Overview
 
-This project explores retail sales data from the Superstore dataset to uncover meaningful business insights such as sales trends, customer behavior, regional performance, and profitability drivers.
-
-Using Python and data visualization tools, the analysis transforms raw transaction data into clear, actionable insights that can support smarter business decisions and dashboard development in Power BI.
+This project analyzes the Superstore retail dataset to understand how the business is performing in terms of sales, profit, and customer behavior. Using Python and data visualization tools, it explores patterns across products, regions, and time to uncover useful trends that can support better decision-making. The aim is to turn raw sales data into clear, practical insights that can be used for reporting and building dashboards in Power BI.
 
 ---
 
@@ -85,8 +83,7 @@ This highlights the most profitable and high-demand product groups.
 ---
 
 ### Sales by Region  
-Insert image: Sales by Region  
-(Use: `03_sales_by_region.png`)
+![image alt]()
 
 This compares how different regions contribute to total sales.
 
@@ -95,16 +92,14 @@ This compares how different regions contribute to total sales.
 ## Profit Analysis
 
 ### Profit by Category  
-Insert image: Profit by Category  
-(Use: `04_profit_by_category.png`)
+![image alt]()
 
 This shows which categories generate the most profit, not just sales.
 
 ---
 
 ### Sales vs Profit  
-Insert image: Sales vs Profit  
-(Use: `05_sales_vs_profit.png`)
+![image alt]()
 
 This helps identify whether high sales always lead to high profit.
 
@@ -113,16 +108,14 @@ This helps identify whether high sales always lead to high profit.
 ## Time-Based Analysis
 
 ### Monthly Sales Trend  
-Insert image: Monthly Sales Trend  
-(Use: `06_monthly_sales_trend.png`)
+![image alt]()
 
 This reveals seasonal patterns and sales growth over time.
 
 ---
 
 ### Monthly Profit Trend  
-Insert image: Monthly Profit Trend  
-(Use: `07_monthly_profit_trend.png`)
+![image alt]()
 
 This shows how profitability changes month by month.
 
