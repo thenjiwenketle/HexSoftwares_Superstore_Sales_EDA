@@ -67,16 +67,14 @@ Before analysis, the dataset was cleaned and validated:
 ## Sales Analysis
 
 ### Sales by Category  
-Insert image: Sales by Category  
-(Use: `01_sales_by_category.png`)
+![image alt]()
 
 This visual shows how sales are distributed across major product categories.
 
 ---
 
 ### Top Sub-Categories by Sales  
-Insert image: Sub-Category by Sales  
-(Use: `02_subcategory_sales.png`)
+![image alt]()
 
 This highlights the most profitable and high-demand product groups.
 
